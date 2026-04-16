@@ -1,0 +1,8 @@
+node_modules
+dist
+.mongodb-binaries
+.env
+.git
+npm-debug.log
+Dockerfile
+README.md
